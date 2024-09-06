@@ -1,0 +1,1 @@
+print("hola desde el archivo otro.py")
